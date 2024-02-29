@@ -1,0 +1,46 @@
+[15-Jul-2023 09:54:56 UTC] PHP Parse error:  syntax error, unexpected variable "$contenu" in /home2/dbrazmodev/public_html/accueil/contact.php on line 29
+[15-Jul-2023 10:05:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function message() in /home2/dbrazmodev/public_html/accueil/contact.php:141
+Stack trace:
+#0 {main}
+  thrown in /home2/dbrazmodev/public_html/accueil/contact.php on line 141
+[15-Jul-2023 10:07:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function message() in /home2/dbrazmodev/public_html/accueil/contact.php:141
+Stack trace:
+#0 {main}
+  thrown in /home2/dbrazmodev/public_html/accueil/contact.php on line 141
+[15-Jul-2023 10:08:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function message() in /home2/dbrazmodev/public_html/accueil/contact.php:84
+Stack trace:
+#0 {main}
+  thrown in /home2/dbrazmodev/public_html/accueil/contact.php on line 84
+[15-Jul-2023 10:09:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function message() in /home2/dbrazmodev/public_html/accueil/contact.php:84
+Stack trace:
+#0 {main}
+  thrown in /home2/dbrazmodev/public_html/accueil/contact.php on line 84
+[15-Jul-2023 10:11:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function message() in /home2/dbrazmodev/public_html/accueil/contact.php:141
+Stack trace:
+#0 {main}
+  thrown in /home2/dbrazmodev/public_html/accueil/contact.php on line 141
+[15-Jul-2023 10:17:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function message() in /home2/dbrazmodev/public_html/accueil/contact.php:141
+Stack trace:
+#0 {main}
+  thrown in /home2/dbrazmodev/public_html/accueil/contact.php on line 141
+[15-Jul-2023 10:17:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function message() in /home2/dbrazmodev/public_html/accueil/contact.php:141
+Stack trace:
+#0 {main}
+  thrown in /home2/dbrazmodev/public_html/accueil/contact.php on line 141
+[19-Jul-2023 12:42:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function message() in /home2/dbrazmodev/public_html/accueil/contact.php:141
+Stack trace:
+#0 {main}
+  thrown in /home2/dbrazmodev/public_html/accueil/contact.php on line 141
+[19-Jul-2023 13:14:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function message() in /home2/dbrazmodev/public_html/accueil/contact.php:141
+Stack trace:
+#0 {main}
+  thrown in /home2/dbrazmodev/public_html/accueil/contact.php on line 141
+[20-Jul-2023 08:07:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function message() in /home2/dbrazmodev/public_html/accueil/contact.php:141
+Stack trace:
+#0 {main}
+  thrown in /home2/dbrazmodev/public_html/accueil/contact.php on line 141
+[20-Jul-2023 08:15:08 UTC] PHP Parse error:  syntax error, unexpected token "echo" in /home2/dbrazmodev/public_html/accueil/contact.php on line 7
+[20-Jul-2023 08:15:24 UTC] PHP Parse error:  syntax error, unexpected token "echo" in /home2/dbrazmodev/public_html/accueil/contact.php on line 7
+[20-Jul-2023 08:15:30 UTC] PHP Parse error:  syntax error, unexpected token "echo" in /home2/dbrazmodev/public_html/accueil/contact.php on line 45
+[20-Jul-2023 08:16:05 UTC] PHP Parse error:  Unmatched '}' in /home2/dbrazmodev/public_html/accueil/contact.php on line 8
+[20-Jul-2023 10:00:19 UTC] PHP Warning:  Undefined variable $message in /home2/dbrazmodev/public_html/accueil/contact.php on line 144
